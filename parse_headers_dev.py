@@ -213,4 +213,4 @@ conn.commit()
 os.chdir(os.path.join('D:\\','GIS_work'))
 cur.close()
 conn.close()
-
+print('all finished')
